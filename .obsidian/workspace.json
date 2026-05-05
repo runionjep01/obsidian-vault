@@ -20,24 +20,51 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
-          }
-        ]
-      },
-      {
-        "id": "05a6ab209ef292b5",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "a315b29b212f07c2",
+            "id": "47657964293eba1d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Dump/Mermaid Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mermaid Test"
+            }
+          },
+          {
+            "id": "e929d59f1827198c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dump/Mermaid Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mermaid Test"
+            }
+          },
+          {
+            "id": "3f94bb7dd643afa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dump/No Boilerplate Script Paste Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "No Boilerplate Script Paste Test"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Dump/No Boilerplate Script Paste Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for No Boilerplate Script Paste Test"
             }
           },
           {
@@ -129,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Dump/No Boilerplate Script Paste Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from No Boilerplate Script Paste Test"
             }
           },
           {
@@ -172,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Dump/No Boilerplate Script Paste Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of No Boilerplate Script Paste Test"
             }
           },
           {
@@ -220,10 +247,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77f1ec2ab1143486",
+  "active": "3f94bb7dd643afa9",
   "lastOpenFiles": [
+    "Dump/LaTeX Test.md",
+    "Dump/Mermaid Test.md",
+    "Dump/No Boilerplate Script Paste Test.md",
+    "Untitled.md",
+    "Welcome.md",
+    "Dump",
     "README.md",
-    "LICENSE",
-    "Welcome.md"
+    "LICENSE"
   ]
 }
