@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - be an idiot
+    sort:
+      - property: be an idiot
+        direction: ASC
