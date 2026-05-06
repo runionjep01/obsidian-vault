@@ -53,14 +53,14 @@
             "id": "fdde2668ada459c7",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Dump/Gibberish List.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Gibberish List"
             }
           }
         ],
@@ -137,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dump/Table Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Table Test"
             }
           },
           {
@@ -155,11 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dump/Table Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Table Test"
             }
           },
           {
@@ -197,12 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Dump/Table Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Table Test"
             }
           },
           {
@@ -246,15 +249,21 @@
   },
   "active": "fdde2668ada459c7",
   "lastOpenFiles": [
-    "Dump/Gibberish List.md",
-    "Dump/LaTeX Test.md",
     "Dump/Table Test.md",
     "Dump/Untitled.base",
+    "Dump/Untitled 1.md",
+    "Dump/Untitled.md",
+    "Dump/Untitled 5.md",
+    "Dump/Untitled 4.md",
+    "Dump/Untitled 3.md",
+    "Dump/Untitled 2.md",
+    "Dump/Gibberish List.md",
+    "Dump/No Boilerplate Script Paste Test.md",
+    "Dump/LaTeX Test.md",
     "Dump/dsf.md",
     "Dump/Welcome.md",
     "Welcome.md",
     "Dump/Outline Test.md",
-    "Dump/No Boilerplate Script Paste Test.md",
     "Dump/Mermaid Test.md",
     "Dump",
     "Untitled.md",

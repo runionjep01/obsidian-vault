@@ -4,5 +4,7 @@ views:
     order:
       - be an idiot
     sort:
+      - property: file.name
+        direction: ASC
       - property: be an idiot
         direction: ASC
