@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b9b954579429ca9d",
+        "id": "815de2a0d3f24a6e",
         "type": "tabs",
         "children": [
           {
-            "id": "4a89350a3bad3254",
+            "id": "7e2c03ff070dd6f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dump/LaTeX Test.md",
+                "file": "Dump/Gemini Save.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LaTeX Test"
-            }
-          },
-          {
-            "id": "e7df0928420ec86c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dump/Outline Test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Outline Test"
-            }
-          },
-          {
-            "id": "43ecd2f63f9e1d3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dump/LaTeX Test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LaTeX Test"
-            }
-          },
-          {
-            "id": "fdde2668ada459c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dump/Gibberish List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gibberish List"
-            }
-          },
-          {
-            "id": "014c536ed31feb34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dump/Test !.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Test !"
+              "title": "Gemini Save"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,9 +204,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "014c536ed31feb34",
+  "active": "7e2c03ff070dd6f5",
   "lastOpenFiles": [
+    "Dump/Gemini Save.md",
     "Dump/Gibberish List.md",
+    "Dump/LaTeX Test.md",
+    "Dump/Outline Test.md",
     "Dump/Test !.md",
     "Dump/Table Test.md",
     "Dump/Untitled.base",
@@ -273,11 +219,9 @@
     "Dump/Untitled 3.md",
     "Dump/Untitled 2.md",
     "Dump/No Boilerplate Script Paste Test.md",
-    "Dump/LaTeX Test.md",
     "Dump/dsf.md",
     "Dump/Welcome.md",
     "Welcome.md",
-    "Dump/Outline Test.md",
     "Dump/Mermaid Test.md",
     "Dump",
     "Untitled.md",
