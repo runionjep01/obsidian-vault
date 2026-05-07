@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Gibberish List"
             }
+          },
+          {
+            "id": "014c536ed31feb34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dump/Test !.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test !"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -247,17 +261,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdde2668ada459c7",
+  "active": "014c536ed31feb34",
   "lastOpenFiles": [
+    "Dump/Gibberish List.md",
+    "Dump/Test !.md",
     "Dump/Table Test.md",
     "Dump/Untitled.base",
     "Dump/Untitled 1.md",
-    "Dump/Untitled.md",
     "Dump/Untitled 5.md",
     "Dump/Untitled 4.md",
     "Dump/Untitled 3.md",
     "Dump/Untitled 2.md",
-    "Dump/Gibberish List.md",
     "Dump/No Boilerplate Script Paste Test.md",
     "Dump/LaTeX Test.md",
     "Dump/dsf.md",
